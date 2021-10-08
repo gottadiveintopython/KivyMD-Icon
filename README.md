@@ -9,7 +9,7 @@ Follow to KivyMD.
 ## Installation
 
 ```
-pip install https://github.com/gottadiveintopython/KivyMD-Icon.git#egg=kivymd
+pip install git+https://github.com/gottadiveintopython/KivyMD-Icon.git#egg=kivymd
 ```
 
 ## Usage
